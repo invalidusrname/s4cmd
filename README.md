@@ -208,7 +208,6 @@ hash before upload or download. The only limitation is that this only works for
 files uploaded via s4cmd. Programs that do not understand this header will
 still have to download and verify the MD5 directly.
 
-
 ## Unimplemented features
 
 - Deletion with sync command.
